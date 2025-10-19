@@ -41,7 +41,5 @@ Unsupervised anomaly detection helps uncover **previously unseen fraud patterns*
 | **Anomaly Detection** | IsolationForest, LocalOutlierFactor, DBSCAN, KMeans |
 | **Optimization** | GridSearchCV |
 
----
 
-## 📁 File Structure Example
 
